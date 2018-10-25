@@ -1,7 +1,8 @@
-I've implimented a Pad and also included the ability to print the encrypted code in blocks of 5; I'm going for exceeds expectation (It said to mention this in instructions)
+##Team Tree House - Python Dev Project 2
+#Text Based Encryptor/Decryptor
 
-I've prepared a file called RUNME.py to easily allow you to test my software's encryption and decryption functionality.
-I believe the RUNME.py allows you to test my code more easily than implementer.py, but implementer.py allows essentially the same thing.
+**Description:** 
+Used python to create scripts that will either encrypt or decrypt a given text input. Run the RUNME.py file to use the software's encryption and decryption functionality.
 
 Working ciphers include:
 -Caesar
@@ -9,4 +10,7 @@ Working ciphers include:
 -Transposition
 -Keyword
 
-Thanks for taking the time to grade this!
+**Why:** This Project was created gain more experience with Python
+**Skills** Used: Python
+
+Created by Ghughes13
